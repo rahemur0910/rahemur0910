@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img align="center" alt="coding" width="3000" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 <h1 align="center">Hi 👋, I'm Sk Rahemur Rahaman</h1>
-<h3 align="center">A passionate Sotware Developer from India</h3>
+
 <img align="right" alt="coding" width="250" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=2000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahemur0910&label=Profile%20views&color=0e75b6&style=flat" alt="rahemur0910" /> </p>
 
